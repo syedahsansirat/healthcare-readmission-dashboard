@@ -96,3 +96,26 @@ healthcare-readmission-dashboard/
 │   └── dashboard_overview.png
 │
 └── README.md
+```
+---
+## Screenshots
+![Screenshots](images/Screenshot1.png)
+---
+![Screenshots](images/Screenshot2.png)
+---
+![Screenshots](images/Screenshot3.png)
+
+
+# 👨‍💻 Author
+
+## Syed Ahsan Sirat
+
+Data Analytics Professional with experience in:
+- Power BI dashboard development
+- Python & Pandas data analysis
+- Healthcare operational analytics
+- Data visualization and reporting
+
+### Connect With Me
+
+- LinkedIn: [Syed Ahsan Sirat](https://www.linkedin.com/in/syedahsansirat/)
