@@ -99,6 +99,7 @@ healthcare-readmission-dashboard/
 ```
 ---
 ## Screenshots
+---
 ![Screenshots](images/Screenshot1.png)
 ---
 ![Screenshots](images/Screenshot2.png)
